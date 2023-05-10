@@ -14,7 +14,7 @@ import com.google.appinventor.components.runtime.EventDispatcher;
         description = "",
         category = ComponentCategory.EXTENSION,
         nonVisible = true,
-        iconName = "https://allmyassets.files.wordpress.com/2023/04/rushicon.png")
+        iconName = "https://allmyassets.files.wordpress.com/2023/04/vector-calculator.png")
 
 @SimpleObject(external = true)
 //Libraries
